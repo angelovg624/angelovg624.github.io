@@ -8,7 +8,7 @@ $(function() {
 
     setTimeout(function() {
       $("."+selectedClass).fadeIn().addClass('scale-anm');
-      $(".show").css({"display":"block"});
+      $(".show").css({"display":"null"});
 
       $("#portfolio").fadeTo(300, 1);
     }, 300);
