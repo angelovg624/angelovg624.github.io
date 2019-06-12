@@ -20,3 +20,11 @@
     display: none !important
   }
 }
+
+@media(min-width:769px){
+  .btn-av{
+    width: 10%;
+      padding: 1% 0%;
+      background-color: #fcfcfc;
+  }
+}
