@@ -88,3 +88,9 @@ p:hover {
   border: 0;
   padding: 0;
 }
+@media(max-width:768px){
+  .center-av{
+    float: none !important;
+    padding-top: 5%;
+  }
+}

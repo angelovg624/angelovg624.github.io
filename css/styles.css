@@ -16,4 +16,7 @@
     float: none !important;
     padding-top: 5%;
   }
+  .project-image{
+    display: none !important
+  }
 }
