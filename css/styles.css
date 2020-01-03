@@ -28,3 +28,8 @@
       background-color: #fcfcfc;
   }
 }
+@media(min-width:769px){
+  .project-info.show{
+    width: 66.7%
+  }
+}
